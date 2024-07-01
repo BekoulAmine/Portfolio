@@ -41,7 +41,7 @@ Here's a screenshot of the home page of the portfolio website:
 If you have any questions or would like to get in touch, please contact me at:
 
 - **Email**: nm_bekoul@esi.dz
-- **GitHub**: [your-username](https://github.com/BekoulAmine)
+- **GitHub**: https://github.com/BekoulAmine
 
 ---
 
